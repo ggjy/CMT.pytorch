@@ -11,7 +11,7 @@
 | CMT-Small       | 83.5%     | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/log_cmt_small.txt) | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/cmt_small.pth) |
 | CMT-Base        | 84.5%     | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/log_cmt_base.txt) | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/cmt_base.pth) |
 
-#### Set up
+### Set up
 ```
 - python==3.6
 - cuda==10.0
