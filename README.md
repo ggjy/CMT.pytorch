@@ -7,7 +7,7 @@
 
 | Model                | Top 1 Acc. | Log | Ckpt |
 | :------------------- | :--------: | :------: | :------: |
-| CMT-Ti        | 79.0%     | [github] | [github] |
+| CMT-Ti        | 79.0%     | [github] | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/cmt_tiny.pth) |
 | CMT-XS        | 81.8%     | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/log_cmt_xs.txt) | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/cmt_xs.pth) |
 | CMT-Small       | 83.5%     | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/log_cmt_small.txt) | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/cmt_small.pth) |
 | CMT-Base        | 84.5%     | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/log_cmt_base.txt) | [github](https://github.com/ggjy/CMT.pytorch/releases/download/release-v1/cmt_base.pth) |
