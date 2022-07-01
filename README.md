@@ -95,3 +95,7 @@ If you find this project useful in your research, please consider cite:
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Other implementations
+
+[Keras code @leondgarse](https://github.com/leondgarse/keras_cv_attention_models/tree/main/keras_cv_attention_models/cmt)
